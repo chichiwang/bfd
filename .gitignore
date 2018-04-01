@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+assets/js
+assets/css
+assets/config
+
+*.swp
+*.DS_STORE
+.eslintcache
+npm-debug.log
+npm-shrinkwrap.json
